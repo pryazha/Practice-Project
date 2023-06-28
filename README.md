@@ -1,1 +1,2 @@
-# Practice-Project
+# Проект 
+## Задача: Создание игры "Flappy Bird"
